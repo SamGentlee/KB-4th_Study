@@ -39,9 +39,10 @@
 
 ## 참여자
 
-- [참여자1](https://github.com/AnChanUng)
-- [참여자2](https://github.com/)
-- ...
+- [안찬웅](https://github.com/AnChanUng)
+- [이성준](https://github.com/SamGentlee)
+- [김준환]
+- [황정현]
 
 ## 참고 자료
 
