@@ -42,7 +42,7 @@
 - [안찬웅](https://github.com/AnChanUng)
 - [이성준](https://github.com/SamGentlee)
 - [김준환]
-- [황정현]
+- [황정현](https://github.com/HwangJungHyun)
 
 ## 참고 자료
 
