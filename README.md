@@ -63,9 +63,9 @@ KB_4기 알고리즘 스터디
 3. 코드 예제와 문제 풀이는 별도의 디렉토리를 생성하여 업로드합니다.
 4. Pull Request를 통해 본 저장소로 기여합니다.
 
-## 스터디 일정
+### 스터디 일정
 
-## 매주 목요일 
+### 매주 목요일 
 
 | 주차 | 주제                 | 내용              | 날짜               |
 |-----|---------------------|-------------------|--------------------| 
@@ -74,9 +74,6 @@ KB_4기 알고리즘 스터디
 | 3주차 | SQL 기본 문법과 데이터 조작 | - 개념 설명<br>- 예제 실습 | 9/4 |
 | 4주차 | 데이터베이스 성능 튜닝 | - 개념 설명<br>- 예제 실습 | 9/5 |
 | 5주차 | 데이터베이스 보안 관리 | - 개념 설명<br>- 예제 실습 | 9/6, 9/7, 9/8 |
-
-## 참여자
-q=%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98&sca_esv=555829701&source=hp&ei=Su_VZKj4Ionb1e8PxeeTCA&iflsig=AD69kcEAAAAAZNX9Wqa9fYk3HRwmMiXksiYaZYEGWMzd&ved=0ahUKEwioxa6UltSAAxWJbfUHHcXzBAEQ4dUDCAs&uact=5&oq=%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98&gs_lp=Egdnd3Mtd2l6Ig_slaDri4jrqZTsnbTshZgyERAuGIMBGK8BGMcBGLEDGIAEMgsQABiABBixAxiDATIFEAAYgAQyCxAAGIAEGLEDGIMBMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBBAAGANIowhQAFjbB3AEeACQAQSYAXigAewIqgEEMC4xMLgBA8gBAPgBAcICERAuGIAEGLEDGIMBGMcBGNEDwgIOEC4YgAQYsQMYxwEY0QPCAggQABiABBixAw&sclient=gws-wiz)
 
 ## 참고 자료
 
