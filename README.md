@@ -27,7 +27,11 @@ KB_4기 알고리즘 스터디
 - [프로그래머스](https://programmers.co.kr/)
 - [LeetCode](https://leetcode.com/)
 - [백준 온라인 저지](https://www.acmicpc.net/)
-- ...
+
+
+
+
+
 
 
 # SQLD 자격증 스터디
