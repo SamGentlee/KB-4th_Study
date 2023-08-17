@@ -65,13 +65,13 @@ KB_4기 알고리즘 스터디
 
 ## 스터디 일정
 
-| 주차 | 주제                 | 내용               |
-|-----|---------------------|--------------------|
-| 1주차 | 데이터 모델링 기본 개념 | - 개념 설명<br>- 예제 실습 |
-| 2주차 | 정규화와 역정규화     | - 개념 설명<br>- 예제 실습 |
-| 3주차 | SQL 기본 문법과 데이터 조작 | - 개념 설명<br>- 예제 실습 |
-| 4주차 | 데이터베이스 성능 튜닝 | - 개념 설명<br>- 예제 실습 |
-| 5주차 | 데이터베이스 보안 관리 | - 개념 설명<br>- 예제 실습 |
+| 주차 | 주제                 | 내용               | 날짜  |
+|-----|---------------------|--------------------| 
+| 1주차 | 데이터 모델링 기본 개념 | - 개념 설명<br>- 예제 실습 | 8/24 |
+| 2주차 | 정규화와 역정규화     | - 개념 설명<br>- 예제 실습 | 8/31 |
+| 3주차 | SQL 기본 문법과 데이터 조작 | - 개념 설명<br>- 예제 실습 | 9/7 |
+| 4주차 | 데이터베이스 성능 튜닝 | - 개념 설명<br>- 예제 실습 | 9/14 |
+| 5주차 | 데이터베이스 보안 관리 | - 개념 설명<br>- 예제 실습 | 9/21 |
 
 ## 참여자
 q=%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98&sca_esv=555829701&source=hp&ei=Su_VZKj4Ionb1e8PxeeTCA&iflsig=AD69kcEAAAAAZNX9Wqa9fYk3HRwmMiXksiYaZYEGWMzd&ved=0ahUKEwioxa6UltSAAxWJbfUHHcXzBAEQ4dUDCAs&uact=5&oq=%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98&gs_lp=Egdnd3Mtd2l6Ig_slaDri4jrqZTsnbTshZgyERAuGIMBGK8BGMcBGLEDGIAEMgsQABiABBixAxiDATIFEAAYgAQyCxAAGIAEGLEDGIMBMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBBAAGANIowhQAFjbB3AEeACQAQSYAXigAewIqgEEMC4xMLgBA8gBAPgBAcICERAuGIAEGLEDGIMBGMcBGNEDwgIOEC4YgAQYsQMYxwEY0QPCAggQABiABBixAw&sclient=gws-wiz)
